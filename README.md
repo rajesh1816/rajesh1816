@@ -83,14 +83,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, and
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/rajesh1816/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -98,21 +90,6 @@ I enjoy solving infrastructure challenges, improving deployment reliability, and
   <img src="https://streak-stats.demolab.com?user=rajesh1816&theme=github-dark" />
 </p>
 
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh1816&layout=compact&theme=github_dark" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajesh1816&theme=onedark" />
-</p>
 
 ---
 
