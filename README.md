@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/rajesh1816/rajesh1816/blob/main/banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Venkata Rajesh Kumar Karamsetty</h1>
