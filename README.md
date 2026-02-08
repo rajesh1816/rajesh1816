@@ -1,51 +1,137 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner5.png" alt="GitHub Banner" width="800"/>
 </div>
 
-Hi
+<h1 align="center">👋 Hi, I'm Hari Krishna Palepu</h1>
 
-My name is Venkata Rajesh Kumar Karamsetty
-DevOps & AWS Cloud Engineer | Kubernetes (EKS)
+<p align="center">
+  <b>Software Engineer II – SRE @ JPMorgan Chase</b><br/>
+  🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+</p>
 
-🚀 DevOps and AWS Cloud Engineer with 4+ years of hands-on experience in designing, automating, and managing scalable and secure cloud-native platforms.
+<p align="center">
+  <a href="https://topmate.io/hari_palepu">
+    <img src="https://img.shields.io/badge/Topmate-Book%20a%201:1-brightgreen?style=for-the-badge&logo=meetup" alt="Topmate Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/haripalepu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@hareepalepu">
+    <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>
+  </a>
+  <a href="mailto:harikpalepu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+</p>
 
-I specialize in Amazon EKS administration, Kubernetes operations, CI/CD automation, and Infrastructure as Code using Terraform. I have strong experience building and maintaining end-to-end CI/CD pipelines using Jenkins, GitHub Actions, and Azure DevOps, enabling faster and more reliable software delivery.
+---
 
-I actively implement DevSecOps practices including SonarQube quality gates, SAST, DAST, and container image scanning to improve application security. I work extensively with Docker, Helm, and ArgoCD for containerized deployments and GitOps-based workflows.
+## 💡 About Me
 
-I also handle monitoring and logging using Prometheus, Grafana, ELK Stack, and AWS CloudWatch to ensure high availability and performance. I automate operational tasks using Shell scripting and Python, focusing on reliability, scalability, and cost optimization.
+I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
 
-🌟 Passionate about cloud automation, Kubernetes best practices, and continuous improvement.
+---
 
-🌍 Based in India
+## 🧰 Tech Stack
 
-✉️ Contact: kumarsetty644@gmail.com
+- **Cloud**: AWS, Azure, GAIA  
+- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
+- **IaC**: Terraform  
+- **Containers**: Docker, Kubernetes  
+- **Monitoring**: Prometheus, Splunk, Dynatrace, CloudWatch, Azure Monitor  
+- **Scripting**: Bash, Shell, Python  
+- **Security**: IAM, RBAC, Azure Key Vault  
+- **Tools**: Nexus, JFrog Artifactory, SonarQube  
+- **SCM**: GitHub, Bitbucket  
 
-🧠 Currently learning Advanced Kubernetes concepts (Helm deep dive, security, scaling, cluster upgrades)
+---
 
-🤝 Open to collaborating on:
+## 🔧 What I Do
 
-Cloud Infrastructure projects (AWS, Terraform, EKS)
+- 🛠️ Build and manage infrastructure on **AWS & Azure** using **Terraform**  
+- 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Azure DevOps, Jenkins, Jules  
+- ☁️ Operate internal services on **GAIA Private Cloud** using Kubernetes  
+- 🤖 Automate tasks using **Shell scripting**, **Python**, and **Linux tools**  
+- 📈 Monitor & optimize reliability with **Prometheus, Dynatrace, Splunk**  
+- 🔐 Secure environments with **RBAC**, **IAM**, and **Vaults**  
 
-CI/CD pipeline implementation (Jenkins, GitHub Actions, Azure DevOps)
+---
 
-Kubernetes & DevOps automation
+## 💼 Career Snapshot
 
-GitOps workflows using ArgoCD
+- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
+- 🏢 **Presidio** – *Senior DevOps Engineer*  
+- 🏢 **CGI** – *Systems Engineer*  
+- 🏢 **Avineon** – *GIS Engineer*  
 
-⚡ Interests:
+---
 
-DevSecOps & platform security
+## ⚙️ Skills Showcase
 
-Kubernetes administration & troubleshooting
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="Ansible"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+</p>
 
-Mentoring junior DevOps engineers
+---
 
-Learning new cloud-native tools & best practices
+## 🐍 GitHub Contribution Snake
 
-🛠️ Skills
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/helm-colored.svg" width="36" height="36" alt="Helm" /></a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> </p>
-🌐 Socials
-<p align="left"> <a href="https://github.com/rajesh1816" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/kumar-k-2918ab271/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a> </p> ```
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
+---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=Haripalepu&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Haripalepu&theme=onedark" />
+</p>
+
+---
+
+## 📞 Book a 1:1 Session
+
+👉 [**Topmate: Book 1:1 Mentoring / Career Chat**](https://topmate.io/hari_palepu)  
+*(Project Help • DevOps Guidance • Resume Review • Q&A)*
+
+---
+
+## 🎮 Fun Facts
+
+- 🏍️ Passionate about motorbike rides  
+- ☕ Never says no to coffee  
+- 📚 Lifelong learner  
+- 🧘 Meditation believer  
+- 💡 Always up for tech discussions!
+
+---
+
+Thanks for visiting! ✨  
+Let’s connect and grow together 💬
